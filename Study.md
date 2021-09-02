@@ -8,7 +8,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 ### A brief history of software development processes
 <br />
 
-Before 1968, there were no certified software specialist, physicists and accountants would take coding lessons to develop what was necessary to build their own systems. As the complexity of these systems grew, Software Engineering emerged as a discipline in it’s own right. This created a gap between the business or domain experts and developers and created a need for a more methodical approach to software development.
+Before 1968, there were no certified software specialists. Physicists and accountants etc. would take coding lessons to develop what was necessary to build their own systems. As the complexity of these systems grew, Software Engineering emerged as a discipline in it’s own right. This created a gap between the business or domain experts and developers and created a need for a more methodical approach to software development.
 
 [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) is one of the first, if not the first, software development process models. The first formal detailed diagram of this process was released in 1970 and it describes a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous, so the progress flows downwards like a waterfall.
 
@@ -26,7 +26,7 @@ As the world kept accelerating and software being an inherently different kind o
 
 The software industry, advocates believed, was too focused on process and planning — to the detriment of the product and customer. Even in 70’s, there was already a general awareness of the need for iteration and lightweight processes.
 
-As an alternative, [Rapid Application Development process](https://en.wikipedia.org/wiki/Rapid_application_development) was developed which emphasises the use of software and user feedback over strict planning and requirements recording. These ideas of dividing work into smaller sections, working in quick iterations while prioritising fast feedback are drivers of modern software development processes and workflows.
+As an alternative, [Rapid Application Development process](https://en.wikipedia.org/wiki/Rapid_application_development) was developed which emphasises the use of software and user feedback over strict planning and requirements recording. These ideas of dividing work into smaller sections, working in quick iterations while prioritising fast feedback were drivers of modern software development processes and workflows.
 
 <img src="assets/images/RADModel.jpeg" alt="RAD" height="250px" />
 
