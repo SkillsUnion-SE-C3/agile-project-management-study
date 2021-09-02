@@ -1,15 +1,16 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+# Agile Project Management with SCRUM: Study
 
 ## Learning Objectives
 
 By the end of this, you should know:
 
-- Lorem ipsum dolor sit amet
+- A brief history of software development process
 
 By the end of this, you should be able to:
 
-- Lorem ipsum dolor sit amet
+- Explain what is waterfall process
+- Present benefits and drawbacks of waterfall process
 
 ## Instructions
 
