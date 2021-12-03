@@ -35,21 +35,33 @@ As an alternative, [Rapid Application Development process](https://en.wikipedia
 1. Please give 2 benefits and 2 drawbacks to Waterfall method
 
     ```
-    Please write your answer here.
+   Benefits:
+        Time spent early in the software production cycle can reduce costs at later stages
+        waterfall model places emphasis on documentation
+
+   Drawbacks:
+        Clients may not know exactly what their requirements are before they see working software and so change their requirements, leading to redesign, redevelopment, and retesting, and increased costs
+         Designers may not be aware of future difficulties when designing a new software product or feature
     ```
 
 1. Please give 2 benefits and 2 drawbacks to Rapid Application Development method
 
     ```
-    Please write your answer here.
+    Benefits:
+        More projects completed on time and within budget.
+        Better quality
+    
+    Drawbacks:
+        The risk of a new approachThe risk of a new approach
+        Requires time of scarce resources
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
