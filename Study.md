@@ -35,21 +35,34 @@ As an alternative, [Rapid Application Development process](https://en.wikipedia
 1. Please give 2 benefits and 2 drawbacks to Waterfall method
 
     ```
-    Please write your answer here.
+    Drawbacks:
+    1) It is rigid and therefore doesn't allow for muchc flexibility in the process.
+    2) Once the process begins, it will continue until the product is fully built without any allowance for customer feedback/involvement along the way.
+
+    Benefits:
+    1) It provides a structured way of completing a project
+    2) It works well when used with small projects that have been very well understood.
     ```
 
 1. Please give 2 benefits and 2 drawbacks to Rapid Application Development method
 
     ```
-    Please write your answer here.
+    2 Drawbacks:
+    1) Can be harder to track as there is no planning documentations
+    2)It isn't suitable for smaller projects
+
+    2 Benefits:
+    1) It is a flexible model that takes into consideration regular customer involvement and feedback throughout the process. It is also a lot faster than th waterfall method and it doesn't require the rigorous and structured planning.
+
+    2) Testing is done in every iteration with RAD so this method reduces overall testing time. It is also felxible and adaptable to changes.
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 5
 
-    Clarity: 
+    Clarity: 5
     ```
 
 ### Response Guidelines
